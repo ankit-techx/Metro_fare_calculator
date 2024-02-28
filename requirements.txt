@@ -1,0 +1,5 @@
+## Requirements
+- Python 3.x
+- Tkinter library
+- Pillow (PIL) library
+- Streamlit library
