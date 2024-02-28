@@ -26,7 +26,6 @@ Namma Metro Fare Calculator is a graphical user interface (GUI) application deve
 8. For the Streamlit web app, navigate to the provided URL in your web browser and follow the on-screen instructions.
 
 ## Screenshots
-![image](https://github.com/ankit-techx/Metro_fare_calculator/assets/101319910/1f0bee5c-8599-43d1-92b4-1ab96833edc9)
 ![image](https://github.com/ankit-techx/Metro_fare_calculator/assets/101319910/0d6966c1-ccd9-4162-92ee-37b84c5cda4b)
-
+![image](https://github.com/ankit-techx/Metro_fare_calculator/assets/101319910/1f0bee5c-8599-43d1-92b4-1ab96833edc9)
 
