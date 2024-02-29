@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 
 # Load background image
-background_image = Image.open(r"images\background.png")
+background_image = Image.open("images/background.png")
 st.image(background_image, use_column_width=True)
 
 # Define the list of station names
