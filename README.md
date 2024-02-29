@@ -2,7 +2,7 @@
 
 Link to the website:
 
-[https://fare-calculator.streamlit.app/](url)
+https://fare-calculator.streamlit.app/
 
 ## Overview
 Namma Metro Fare Calculator is a graphical user interface (GUI) application developed using Python's Tkinter library and Streamlit framework. It helps users calculate the fare for their journey on the Namma Metro in Bangalore, India.
